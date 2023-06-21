@@ -1,5 +1,6 @@
-https://zcxcode.github.io/p__Studio/
-# Верстка макета
+https://cx-code-web.github.io/p__Studio
+
+# Верстка
 
 ## Стек
 
