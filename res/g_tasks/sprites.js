@@ -39,7 +39,7 @@ export const svgSprite = () => {
 
 export const svgSpriteBuild = () => {
   return app.gulp
-    .src(`${app.path.build.imgs}/sprite/sprite.svg`)
+    .src(`${app.path.build.imgs}/sprite/sprite.svg`, {allowEmpty: true})
     .pipe(
       svgmin()
     )

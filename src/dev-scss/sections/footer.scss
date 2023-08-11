@@ -28,6 +28,7 @@
     color: #999999;
     transition: transform 0.3s ease;
     transform-origin: 0 50%;
+    cursor: pointer;
 
     &::before {
       content: "";
@@ -42,7 +43,7 @@
     }
 
     &:hover {
-      transform: scale(2.1);
+      transform: scale(1.2);
     }
   }
 }

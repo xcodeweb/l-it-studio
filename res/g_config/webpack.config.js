@@ -23,6 +23,10 @@ export const configWebpack = () => {
               ]
             }
           }
+        },
+        {
+          test: /\.css$/,
+          use: ["style-loader", "css-loader"]
         }
       ]
     }
