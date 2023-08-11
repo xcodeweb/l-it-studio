@@ -1,4 +1,4 @@
-https://cx-code-web.github.io/p__Studio
+https://xcodeweb.github.io/l-it-studio
 
 # Верстка
 
